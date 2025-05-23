@@ -2,5 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body { font-family: 'Inter', sans-serif; }
-input, button, textarea { font-family: inherit; }
+body {
+  font-family: 'Inter', sans-serif;
+}
+input, button, textarea {
+  font-family: inherit;
+}
